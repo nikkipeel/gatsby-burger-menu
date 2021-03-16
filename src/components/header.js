@@ -1,6 +1,7 @@
 import * as React from "react"
 import PropTypes from "prop-types"
 import { Link } from "gatsby"
+import MobileNav from "./menu"
 
 const Header = ({ siteTitle }) => (
   <header
@@ -9,6 +10,8 @@ const Header = ({ siteTitle }) => (
       marginBottom: `1.45rem`,
     }}
   >
+    <MobileNav></MobileNav>
+
     <div
       style={{
         margin: `0 auto`,
