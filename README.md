@@ -8,7 +8,7 @@
   - customize styling to match Gatsby starter
 
 <h2>- Home Page-</h2>
-  <img src="src/images/gatsby-burger-homepage.png" alt="Home Page" width="100%" height="auto">
+  <img src="src/images/gatsby-burger-home.png" alt="Home Page" width="100%" height="auto">
 
 <h2>- Open Menu -</h2>
   <img src="src/images/gatsby-burger-menu.png" alt="Open Menu" width="100%" height="auto">
